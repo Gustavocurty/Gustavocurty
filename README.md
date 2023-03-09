@@ -26,5 +26,8 @@
   <a href="linkedin.com/in/gustavo-curty-b394b7255" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Gustavocurty/count.svg" /></p>
+  
+  ![Snake animation](https://github.com/ELLEN2121/ELLEN2121/blob/output/github-contribution-grid-snake.svg)
 </div>
-![Snake animation](https://github.com/Gustavocurty/Gustavocurty/blob/output/github-contribution-grid-snake.svg)
+
+

@@ -22,7 +22,7 @@
  <div align="center">
   <a href="https://www.instagram.com/gust_curty" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gutocurty18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="linkedin.com/in/gustavo-curty-b394b7255" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="[linkedin.com/in/gustavo-curty-b394b7255](https://www.linkedin.com/in/gustavo-curty-b394b7255/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Gustavocurty/count.svg" /></p>
   

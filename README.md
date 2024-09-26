@@ -13,7 +13,7 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras usando tecnologi
 </div>
 
  <div align="center" >
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,vscode,github,git,figma,react,typescript,flutter,python" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,vscode,github,git,figma,typescript,flutter,python" />
 </div>
 
  ![Snake animation](https://github.com/Gustavocurty/Gustavocurty/blob/output/github-contribution-grid-snake.svg)
